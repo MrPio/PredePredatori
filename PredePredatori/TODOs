@@ -1,0 +1,21 @@
+TODO:
+	•Non far accalcare le (Pray) sullo stesso (Food)? non è fondamentale, tanto ho fatto che ogni
+		(Food) può essere preso al massimo da una (Pray)
+	•La bounce Animation è troppo veloce all'inizio rispetto alla fine
+__________________________________________________________________________________________________________	
+==========================================================================================================
+DONE:
+	•Se ho tantissimi (Pray) e tantissimi (Food), le (Pray) non si sparpagliano, ma si accalcano in gruppi
+		sugli stessi (Food): nella funzione isFoodNearby() non devo cercare con un foreach ma controllando
+		con ordine casuale la lista dei (Food).
+
+==========================================================================================================
+GRAPHICS ANIMATION:
+	Translate:
+		View.setLocation(int,int);
+	Rotate:
+		see Utilities method
+	Scale:
+		View.setIcon(new ImageIcon(buffered_image.getScaledInstance(100, 100, Image.SCALE_DEFAULT)));
+		dove 100,100 = adatta al componente,   e non dimensioni originale dell'immagine
+			
