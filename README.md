@@ -1,3 +1,3 @@
 # PredePredatori
 Simulazione dell'evoluzione
-![alt-text](Simulazione carestia.gif)
+![alt-text](/Simulazione carestia.gif)
