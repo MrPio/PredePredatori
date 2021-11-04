@@ -1,3 +1,3 @@
 # PredePredatori
 Simulazione dell'evoluzione
-![alt-text](https://github.com/MrPio/PredePredatori/edit/main/Simulazione_carestia.gif)
+![alt-text](https://github.com/MrPio/PredePredatori/blob/main/Simulazione%20carestia.gif)
